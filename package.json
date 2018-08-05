@@ -1,0 +1,26 @@
+{
+  "name": "stim-node",
+  "version": "1.0.2",
+  "description": "Communicate with stimd via JSON-RPC",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STM0x0/stim-node.git"
+  },
+  "keywords": [
+    "stim",
+    "rpc"
+  ],
+  "author": "STM0x0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/STM0x0/stim-node/issues"
+  },
+  "homepage": "https://github.com/STM0x0/stim-node#readme",
+  "dependencies": {
+    "deprecate": "^1.0.0"
+  }
+}
